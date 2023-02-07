@@ -1,4 +1,4 @@
-package com.snoozer.backend.controller;
+package com.snoozer.backend.auth;
 
 import com.snoozer.backend.config.JwtService;
 import com.snoozer.backend.model.User;

@@ -1,4 +1,4 @@
-package com.snoozer.backend.controller;
+package com.snoozer.backend.auth;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
